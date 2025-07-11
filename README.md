@@ -1,4 +1,4 @@
-# 免费V2rayC节点 - 7月5日22.7M/S|免费Shadowrocket/V2ray/SSR/Clash节点推荐，V2rayC梯子购买推荐  更新时间 2025-07-05 09:50:17
+# 免费V2rayC节点 - 7月11日19.6M/S|免费V2ray/Shadowrocket/SSR/Clash节点推荐，V2rayC梯子购买推荐  更新时间 2025-07-11 08:20:06
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://freev2rayc.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://freev2rayc.github.io/uploads/2025/07/0-20250705.yaml
-- https://freev2rayc.github.io/uploads/2025/07/1-20250705.yaml
-- https://freev2rayc.github.io/uploads/2025/07/2-20250705.yaml
-- https://freev2rayc.github.io/uploads/2025/07/3-20250705.yaml
-- https://freev2rayc.github.io/uploads/2025/07/4-20250705.yaml
+- https://freev2rayc.github.io/uploads/2025/07/0-20250711.yaml
+- https://freev2rayc.github.io/uploads/2025/07/1-20250711.yaml
+- https://freev2rayc.github.io/uploads/2025/07/2-20250711.yaml
+- https://freev2rayc.github.io/uploads/2025/07/3-20250711.yaml
+- https://freev2rayc.github.io/uploads/2025/07/4-20250711.yaml
 
 ### V2ray订阅链接
 
-- https://freev2rayc.github.io/uploads/2025/07/0-20250705.txt
-- https://freev2rayc.github.io/uploads/2025/07/1-20250705.txt
-- https://freev2rayc.github.io/uploads/2025/07/2-20250705.txt
-- https://freev2rayc.github.io/uploads/2025/07/3-20250705.txt
-- https://freev2rayc.github.io/uploads/2025/07/4-20250705.txt
+- https://freev2rayc.github.io/uploads/2025/07/0-20250711.txt
+- https://freev2rayc.github.io/uploads/2025/07/1-20250711.txt
+- https://freev2rayc.github.io/uploads/2025/07/2-20250711.txt
+- https://freev2rayc.github.io/uploads/2025/07/3-20250711.txt
+- https://freev2rayc.github.io/uploads/2025/07/4-20250711.txt
 
 ### Sing-box订阅链接
 
-- https://freev2rayc.github.io/uploads/2025/07/20250705.json
+- https://freev2rayc.github.io/uploads/2025/07/20250711.json
 
 ## 更多clash节点订阅 ：
 
